@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-7-phonebook",
+  "name": "react-homework-7-phonebook_acc-to-RTK-Query",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oksemko.github.io/goit-react-hw-07-phonebook/",
+  "homepage": "https://oksemko.github.io/goit-react-hw-07-phonebook_acc-to-RTK-Query/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
     "@reduxjs/toolkit": "^1.8.6",
